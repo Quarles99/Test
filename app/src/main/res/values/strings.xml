@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ContentProviderTest</string>
+    <string name="insert">Insert</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="id">ID</string>
+    <string name="pop_name">Pop Name</string>
+    <string name="pop_number">Pop Number</string>
+    <string name="pop_type">Pop Type</string>
+    <string name="on">On</string>
+    <string name="fandom">Fandom</string>
+    <string name="ultimate">Ultimate</string>
+    <string name="price">Price</string>
+</resources>
